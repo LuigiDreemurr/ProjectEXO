@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEXO Master - Revised.CSharp.Plugins", "ProjectEXO Master - Revised.CSharp.Plugins.csproj", "{4C7C3E5B-A608-3E53-1A37-BBC1C5ABF078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEXO Master - Revised.CSharp", "ProjectEXO Master - Revised.CSharp.csproj", "{97721EFA-0BC6-2D51-0874-D594FFDB0151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEXO Master - Revised.CSharp.Editor", "ProjectEXO Master - Revised.CSharp.Editor.csproj", "{FEAC618A-B282-BC4D-6C2A-443F39B9BC3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C7C3E5B-A608-3E53-1A37-BBC1C5ABF078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7C3E5B-A608-3E53-1A37-BBC1C5ABF078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7C3E5B-A608-3E53-1A37-BBC1C5ABF078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7C3E5B-A608-3E53-1A37-BBC1C5ABF078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97721EFA-0BC6-2D51-0874-D594FFDB0151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97721EFA-0BC6-2D51-0874-D594FFDB0151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97721EFA-0BC6-2D51-0874-D594FFDB0151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97721EFA-0BC6-2D51-0874-D594FFDB0151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAC618A-B282-BC4D-6C2A-443F39B9BC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAC618A-B282-BC4D-6C2A-443F39B9BC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAC618A-B282-BC4D-6C2A-443F39B9BC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAC618A-B282-BC4D-6C2A-443F39B9BC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

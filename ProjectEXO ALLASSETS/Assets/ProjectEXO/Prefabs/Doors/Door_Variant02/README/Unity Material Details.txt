@@ -1,0 +1,6 @@
+Door materials in unity
+
+Hazard 4 - Metallic 0.8, Smoothness 0.25
+Hazard 2 - Albedo Colour(White), Metallic 0.5, Smoothness 0.1
+Hazard 3 - Albedo Colour(White), Metallic 0.5, Smoothness 0.1
+Hazard 1 - Metallic 0.5, Smoothness 0.1

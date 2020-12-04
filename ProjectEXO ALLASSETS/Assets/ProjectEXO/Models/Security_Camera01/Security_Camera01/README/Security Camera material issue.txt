@@ -1,0 +1,2 @@
+glass material doesn't seem to work through 3dsmax, 
+doing it through unity with legacy shaders
